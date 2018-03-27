@@ -1,0 +1,527 @@
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation_MarkupCompile.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.g.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.Properties.Resources.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csproj.GenerateResource.Cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.Core.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Adomd.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Queryable.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Xmla.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Analytics.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.Controls.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Charting.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices50.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices60.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.Extensions.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Docking.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework60.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewersUI.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.Export.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Pivot.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.PivotFieldList.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Spreadsheet.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.SpreadsheetUI.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.VirtualGrid.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.OpenXml.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Pdf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Xaml.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.DataGrid.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.Dictionaries.En-US.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.PersistenceFramework.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.Extensions.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\EQATEC.Analytics.Monitor.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.Core.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Adomd.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Queryable.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Xmla.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Analytics.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.Controls.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Charting.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices50.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices60.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.Extensions.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Docking.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework60.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewersUI.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.Export.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Pivot.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.PivotFieldList.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Spreadsheet.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.SpreadsheetUI.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.VirtualGrid.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.OpenXml.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Pdf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Xaml.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.DataGrid.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.Dictionaries.En-US.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.PersistenceFramework.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.Extensions.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationConfigurationView.baml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationConfigurationView.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.Core.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Adomd.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Queryable.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Xmla.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Analytics.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.Controls.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Charting.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices50.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices60.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.Extensions.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Docking.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework60.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewersUI.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.Export.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Pivot.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.PivotFieldList.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Spreadsheet.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.SpreadsheetUI.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.VirtualGrid.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.OpenXml.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Pdf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Xaml.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.DataGrid.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.Dictionaries.En-US.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.PersistenceFramework.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.Extensions.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Spatial.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\EQATEC.Analytics.Monitor.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.Core.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Adomd.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Queryable.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Xmla.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Analytics.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.Controls.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Charting.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices50.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices60.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.Extensions.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Docking.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework60.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewersUI.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.Export.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Pivot.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.PivotFieldList.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Spreadsheet.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.SpreadsheetUI.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.VirtualGrid.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.OpenXml.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Pdf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Xaml.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.DataGrid.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.Dictionaries.En-US.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.PersistenceFramework.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.Extensions.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Spatial.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationConfigurationView.baml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationHostView.baml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationConfigurationView.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationHostView.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation_MarkupCompile.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.g.resources
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.Properties.Resources.resources
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationConfigurationView.baml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationHostView.baml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationStatusView.baml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationConfigurationView.g.cs
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationHostView.g.cs
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\Views\SimulationStatusView.g.cs
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation_MarkupCompile.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.g.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.Properties.Resources.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\EQATEC.Analytics.Monitor.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.Core.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Adomd.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Queryable.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Xmla.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Analytics.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.Controls.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Charting.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices50.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices60.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.Extensions.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Docking.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework60.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FileDialogs.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewersUI.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.Export.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Pivot.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.PivotFieldList.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Spreadsheet.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.SpreadsheetUI.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.VirtualGrid.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.OpenXml.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Pdf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Xaml.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.DataGrid.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.Dictionaries.En-US.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.PersistenceFramework.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.Extensions.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Spatial.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\EQATEC.Analytics.Monitor.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.Core.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Adomd.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Queryable.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Pivot.DataProviders.Xmla.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Analytics.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Cloud.Controls.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Charting.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices50.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataServices60.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Diagrams.Extensions.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Docking.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.EntityFramework60.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FileDialogs.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.FixedDocumentViewersUI.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.GridView.Export.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Pivot.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.PivotFieldList.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RibbonView.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.ScheduleView.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.Spreadsheet.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.SpreadsheetUI.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Controls.VirtualGrid.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.OpenXml.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Pdf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.FormatProviders.Xaml.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.DataGrid.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.Dictionaries.En-US.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.PersistenceFramework.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Telerik.Windows.Zip.Extensions.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Spatial.xml

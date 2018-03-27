@@ -1,0 +1,123 @@
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.Properties.Resources.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csproj.GenerateResource.Cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.Properties.Resources.resources
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.Properties.Resources.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Moq.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.pdb

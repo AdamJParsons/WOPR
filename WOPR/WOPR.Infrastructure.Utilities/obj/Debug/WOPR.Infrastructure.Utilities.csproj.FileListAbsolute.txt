@@ -1,0 +1,18 @@
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\WOPR.Infrastructure.Utilities.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\NLog.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\NLog.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.Properties.Resources.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csproj.GenerateResource.Cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\WOPR.Infrastructure.Utilities.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\NLog.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\NLog.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.Properties.Resources.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.pdb

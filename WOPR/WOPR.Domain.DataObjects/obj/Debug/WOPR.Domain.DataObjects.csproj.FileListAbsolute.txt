@@ -1,0 +1,14 @@
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.DataObjects\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.DataObjects\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.DataObjects\obj\Debug\WOPR.Domain.DataObjects.pdb

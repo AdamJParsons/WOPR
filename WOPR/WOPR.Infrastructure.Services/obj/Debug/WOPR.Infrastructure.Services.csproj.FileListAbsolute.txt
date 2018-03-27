@@ -1,0 +1,30 @@
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.dll.config
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.csprojResolveAssemblyReference.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.Properties.Resources.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.csproj.GenerateResource.Cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.dll.config
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.Properties.Resources.resources
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.dll.config
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.Properties.Resources.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Services\obj\Debug\WOPR.Infrastructure.Services.pdb

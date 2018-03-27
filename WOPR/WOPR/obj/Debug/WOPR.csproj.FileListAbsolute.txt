@@ -1,0 +1,145 @@
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.csprojResolveAssemblyReference.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\MainWindow.baml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\Shell.baml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\MainWindow.g.cs
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\Shell.g.cs
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\App.g.cs
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR_MarkupCompile.cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.g.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.Properties.Resources.resources
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.csproj.GenerateResource.Cache
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.exe.config
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.exe
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\NLog.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Theatre.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Utilities.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Theatre.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\NLog.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.exe
+C:\Users\Adam Parsons\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.exe.config
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.exe
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.exe
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\NLog.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Theatre.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Utilities.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Theatre.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\NLog.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\Shell.baml
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\Shell.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR_MarkupCompile.cache
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.g.resources
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.Properties.Resources.resources
+C:\Users\Adam\Desktop\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.exe.config
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.exe
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.exe
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\NLog.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Mef.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Wpf.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Utilities.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Common.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Simulation.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Theatre.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Domain.DataObjects.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Services.dll
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Utilities.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Common.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Simulation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.UI.WPF.Theatre.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\NLog.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Mef.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\Prism.Wpf.xml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Domain.DataObjects.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\bin\Debug\WOPR.Infrastructure.Services.pdb
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\Shell.baml
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\Shell.g.cs
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR_MarkupCompile.cache
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.g.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.Properties.Resources.resources
+C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR\obj\Debug\WOPR.csproj.GenerateResource.Cache
