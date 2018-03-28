@@ -704,3 +704,14 @@ F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.Properties.
 F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.csproj.GenerateResource.Cache
 F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.dll
 F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\WOPR.UI.WPF.Simulation.pdb
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\WOPR.UI.WPF.Simulation.dll.config
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Core.dll
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Interfaces.dll
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Linq.dll
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.PlatformServices.dll
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Core.xml
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Interfaces.xml
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Linq.xml
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.PlatformServices.xml
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\bin\Debug\System.Reactive.Windows.Threading.xml

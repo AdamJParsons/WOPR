@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,6 +20,8 @@ namespace WOPR.UI.WPF.Simulation.Models
         private readonly IMessageBus m_MessageBus;
 
         private readonly IPlatformModelFactory m_OffensivePlatformFactory;
+
+        private IAssetBuilder m_AssetBuilder;
 
         // For the Actor, we will have:
         // 1 Controller (NMCC)
@@ -46,10 +49,11 @@ namespace WOPR.UI.WPF.Simulation.Models
          *  List<Asset> Locations (excluding moveable entities)
          */
 
-        public SimulationElementBuilder(IMessageBus messageBus, IPlatformModelFactory offensivePlatformFactory)
+        public SimulationElementBuilder(IMessageBus messageBus, IPlatformModelFactory offensivePlatformFactory, IAssetBuilder assetBuilder)
         {
             this.m_MessageBus = messageBus;
             this.m_OffensivePlatformFactory = offensivePlatformFactory;
+            this.m_AssetBuilder = assetBuilder;
         }
 
         #region Builder Methods
@@ -98,6 +102,16 @@ namespace WOPR.UI.WPF.Simulation.Models
         private IPlatformModel GetPlatform(PlatformBaseDO platform)
         {
             var model = m_OffensivePlatformFactory.GetPlatformModel(platform, m_MessageBus);
+
+            if (platform.Assets != null)
+            {
+                foreach (var asset in platform.Assets)
+                {
+                    IAsset platformAsset = m_AssetBuilder.BuildAsset(asset);
+                    model.Assets.Add(platformAsset);
+                }
+            }
+
             return model;
         }
 

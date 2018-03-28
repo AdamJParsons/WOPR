@@ -166,3 +166,14 @@ F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.P
 F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.csproj.GenerateResource.Cache
 F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.dll
 F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\obj\Debug\WOPR.UI.WPFSimulation.Tests.pdb
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\WOPR.UI.WPFSimulation.Tests.dll.config
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Core.dll
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Interfaces.dll
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Linq.dll
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.PlatformServices.dll
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Windows.Threading.dll
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Core.xml
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Interfaces.xml
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Linq.xml
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.PlatformServices.xml
+F:\WOPR\WOPR\WOPR.UI.WPFSimulation.Tests\bin\Debug\System.Reactive.Windows.Threading.xml

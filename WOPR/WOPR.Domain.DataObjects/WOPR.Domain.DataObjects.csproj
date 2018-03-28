@@ -48,6 +48,9 @@
     <Compile Include="SimulationElements\Assets\CommandControl\CommanderDO.cs" />
     <Compile Include="SimulationElements\Assets\CommandControl\ControllerDO.cs" />
     <Compile Include="SimulationElements\Assets\DynamicAssetBaseDO.cs" />
+    <Compile Include="SimulationElements\MissionElements\StrategicAssets\GravityBombDO.cs" />
+    <Compile Include="SimulationElements\MissionElements\StrategicAssets\IntercontinentalBallisticMissileDO.cs" />
+    <Compile Include="SimulationElements\MissionElements\StrategicAssets\StrategicAssetBaseDO.cs" />
     <Compile Include="SimulationElements\Assets\Platforms\Offensive\BallisticMissileSubmarineDO.cs" />
     <Compile Include="SimulationElements\Assets\Platforms\Offensive\OffensivePlatformBaseDO.cs" />
     <Compile Include="SimulationElements\Assets\Platforms\Offensive\SiloDO.cs" />
@@ -58,13 +61,14 @@
     <Compile Include="SimulationElements\Messages\EmergencyActionMessage.cs" />
     <Compile Include="SimulationElements\Messages\EmergencyWarOrder.cs" />
     <Compile Include="SimulationElements\Messages\MessageBase.cs" />
+    <Compile Include="SimulationElements\MissionElements\StrategicAssets\SubmarineLaunchedBallisticMissileDO.cs" />
     <Compile Include="SimulationElements\MissionElements\TargetingPackageDO.cs" />
+    <Compile Include="SimulationElements\MissionElements\TargetingPackageElementDO.cs" />
     <Compile Include="SimulationElements\SimulationDO.cs" />
     <Compile Include="SimulationElements\StrategyDO.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SimulationElements\Assets\Platforms\Defensive\" />
-    <Folder Include="SimulationElements\NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

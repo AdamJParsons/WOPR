@@ -22,13 +22,15 @@ namespace WOPR.UI.WPFSimulation.Tests.Models
     {
         private ISimulationElementBuilder builder;
         Mock<IPlatformModelFactory> mockPlatformFactory;
+        Mock<IAssetBuilder> mockAssetBuilder;
 
         [SetUp]
         public void SetUp()
         {
             Mock<IMessageBus> mockMessageBus = new Mock<IMessageBus>();
             mockPlatformFactory = new Mock<IPlatformModelFactory>();
-            builder = new SimulationElementBuilder(mockMessageBus.Object, mockPlatformFactory.Object);
+            mockAssetBuilder = new Mock<IAssetBuilder>();
+            builder = new SimulationElementBuilder(mockMessageBus.Object, mockPlatformFactory.Object, mockAssetBuilder.Object);
         }
 
         [Test]

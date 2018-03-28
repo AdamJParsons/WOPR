@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WOPR.Domain.DataObjects.SimulationElements.Assets.Platforms.Offensive;
+using WOPR.Domain.DataObjects.SimulationElements.MissionElements.StrategicAssets;
 using WOPR.UI.WPF.Common.Messages;
 using WOPR.UI.WPF.Simulation.Helpers.ElementBuilders;
 using WOPR.UI.WPF.Simulation.Models.Platforms.Offensive;
@@ -71,9 +72,32 @@ namespace WOPR.UI.WPFSimulation.Tests.Helpers.ElementBuilders
             Assert.IsNotNull(subModel);
             Assert.IsAssignableFrom<StrategicBomberModel>(subModel);
         }
+
+        [Test]
+        public void OffensivePlatformFactory_UT003_GetPlatformModel_WhenPassedSiloPlatformWithOneAsset_ReturnsASiloPlatformModelWithOneAsset()
+        {
+            IPlatformModelFactory factory = new PlatformModelFactory();
+            Mock<IMessageBus> mockMessageBus = new Mock<IMessageBus>();
+            SiloDO silo = new SiloDO();
+            silo.Assets = new List<StrategicAssetBaseDO>();
+            DummyAsset asset = new DummyAsset();
+            silo.Assets.Add(asset);
+
+            var siloModel = (SiloModel)factory.GetPlatformModel(silo, mockMessageBus.Object);
+
+            //Assert.IsNotNull(siloModel.Assets);
+            //Assert.IsTrue(siloModel.Assets.Count == 1);
+            //var StrategicAsset = siloModel.Assets.SingleOrDefault(x => x)
+            //Assert.IsTrue(siloModel.Assets.Contains();
+        }
     }
 
     public class DummyPlatform : OffensivePlatformBaseDO
+    {
+
+    }
+
+    public class DummyAsset : StrategicAssetBaseDO
     {
 
     }

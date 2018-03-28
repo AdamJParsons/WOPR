@@ -8,5 +8,6 @@ namespace WOPR.Domain.DataObjects.SimulationElements.MissionElements
 {
     public class TargetingPackageDO : BaseDO
     {
+        public List<TargetingPackageElementDO> Elements { get; set; }
     }
 }

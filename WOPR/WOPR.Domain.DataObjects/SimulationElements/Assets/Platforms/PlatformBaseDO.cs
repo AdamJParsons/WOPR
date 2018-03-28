@@ -8,5 +8,7 @@ namespace WOPR.Domain.DataObjects.SimulationElements.Assets.Platforms
 {
     public abstract class PlatformBaseDO : AssetBaseDO
     {
+        public List<AssetBaseDO> Assets { get; set; }
+
     }
 }
