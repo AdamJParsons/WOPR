@@ -19,3 +19,10 @@ C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.Repository\bin\Debug\WOPR.D
 C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.Repository\obj\Debug\WOPR.Domain.Repository.csprojResolveAssemblyReference.cache
 C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.Repository\obj\Debug\WOPR.Domain.Repository.dll
 C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Domain.Repository\obj\Debug\WOPR.Domain.Repository.pdb
+F:\WOPR\WOPR\WOPR.Domain.Repository\bin\Debug\WOPR.Domain.Repository.dll
+F:\WOPR\WOPR\WOPR.Domain.Repository\bin\Debug\WOPR.Domain.Repository.pdb
+F:\WOPR\WOPR\WOPR.Domain.Repository\bin\Debug\WOPR.Domain.DataObjects.dll
+F:\WOPR\WOPR\WOPR.Domain.Repository\bin\Debug\WOPR.Domain.DataObjects.pdb
+F:\WOPR\WOPR\WOPR.Domain.Repository\obj\Debug\WOPR.Domain.Repository.csprojResolveAssemblyReference.cache
+F:\WOPR\WOPR\WOPR.Domain.Repository\obj\Debug\WOPR.Domain.Repository.dll
+F:\WOPR\WOPR\WOPR.Domain.Repository\obj\Debug\WOPR.Domain.Repository.pdb

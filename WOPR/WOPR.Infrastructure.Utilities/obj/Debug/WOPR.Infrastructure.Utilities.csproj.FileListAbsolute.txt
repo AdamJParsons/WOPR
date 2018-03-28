@@ -16,3 +16,12 @@ C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug
 C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csproj.GenerateResource.Cache
 C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.dll
 C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.pdb
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\WOPR.Infrastructure.Utilities.dll
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\WOPR.Infrastructure.Utilities.pdb
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\NLog.dll
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\bin\Debug\NLog.xml
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csprojResolveAssemblyReference.cache
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.Properties.Resources.resources
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.csproj.GenerateResource.Cache
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.dll
+F:\WOPR\WOPR\WOPR.Infrastructure.Utilities\obj\Debug\WOPR.Infrastructure.Utilities.pdb

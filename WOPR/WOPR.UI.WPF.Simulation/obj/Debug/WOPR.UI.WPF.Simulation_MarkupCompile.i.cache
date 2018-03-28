@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Adam\Desktop\Backup\WOPR_2\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\
+F:\WOPR\WOPR\WOPR.UI.WPF.Simulation\obj\Debug\
 WOPR.UI.WPF.Simulation
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 3-37514393
 
-27-523377881
-142326010101
+271454686478
+891337720878
 Views\SimulationConfigurationView.xaml;Views\SimulationHostView.xaml;Views\SimulationStatusView.xaml;
 
 False
